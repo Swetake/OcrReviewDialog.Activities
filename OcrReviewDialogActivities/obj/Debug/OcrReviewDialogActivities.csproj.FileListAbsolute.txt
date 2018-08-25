@@ -1,0 +1,7 @@
+C:\Users\swe\source\repos\OcrReviewActivities\OcrReviewActivities\obj\Debug\OcrReviewDialogActivities.csproj.CoreCompileInputs.cache
+C:\Users\swe\source\repos\OcrReviewActivities\OcrReviewActivities\obj\Debug\OcrReviewDialogActivities.csproj.GenerateResource.cache
+C:\Users\swe\source\repos\OcrReviewActivities\OcrReviewActivities\obj\Debug\OcrReview.FormMain.resources
+C:\Users\swe\source\repos\OcrReviewActivities\OcrReviewActivities\bin\Debug\OcrReviewDialog.dll
+C:\Users\swe\source\repos\OcrReviewActivities\OcrReviewActivities\bin\Debug\OcrReviewDialog.pdb
+C:\Users\swe\source\repos\OcrReviewActivities\OcrReviewActivities\obj\Debug\OcrReviewDialog.dll
+C:\Users\swe\source\repos\OcrReviewActivities\OcrReviewActivities\obj\Debug\OcrReviewDialog.pdb
