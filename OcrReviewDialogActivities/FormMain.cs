@@ -57,5 +57,10 @@ namespace OcrReview
         {
             textBoxText.Text = strText;
         }
+
+        private void FormMain_Load(object sender, EventArgs e)
+        {
+            this.ActiveControl = this.buttonGo;
+        }
     }
 }
